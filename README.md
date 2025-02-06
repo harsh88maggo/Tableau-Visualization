@@ -1,4 +1,4 @@
-# Amazon Top 50 Bestselling Books 2009-2019 Dataset
+# Amazon Top 50 Bestselling Books 2009-2019
 
 ## Overview
 This repository contains analysis based on the **Amazon Top 50 Bestselling Books 2009-2019** dataset, which includes information about bestselling books from Amazon, spanning both fiction and non-fiction categories. The analysis answers key questions such as the most reviewed books, the highest-rated authors, and the most expensive bestsellers.
